@@ -5,7 +5,7 @@
 #	echo "Denne teksten skal repeteres"
 #done
 
-for((c=1; c<=$1; c++))
-	do
-echo $2
+for ((c=1; c<=$1; c++))
+do
+		echo $2
 done
